@@ -1,0 +1,7 @@
+{
+	"username" : "fake@fake.com",
+	"password" : "fakefake",
+	"expectedOrderConfirmMessage" : "Your order on My Shop is complete.",
+	"ExpectedAddToCartSuccessMessage" : "Product successfully added to your shopping cart"
+
+}
