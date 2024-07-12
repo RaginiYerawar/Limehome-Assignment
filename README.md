@@ -3,6 +3,7 @@ This repository contains tests for both UI and API tests.
 - UI test classes can be found [here](https://github.com/RaginiYerawar/Limehome-Assignment/tree/main/src/test/java/com/qa/tests)
 - API test class can be found [here](https://github.com/RaginiYerawar/Limehome-Assignment/tree/main/src/test/java/com/qa/apitests)
 - Test plan can be fount [here](https://docs.google.com/spreadsheets/d/1bbjD-U3XHUJS33RCAGqcLbtCHB4fABhl/edit?usp=drive_link&ouid=107477023089635557750&rtpof=true&sd=true).
+- Reports can be found [here](https://drive.google.com/drive/folders/1y6Y11oDNJaWOD0ap97FP7sKF3ZFzo7xa?usp=sharing)
 
 **Testing Challenge / Front End and Back End**
 Technology Stack:
