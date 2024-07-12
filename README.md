@@ -16,6 +16,7 @@ Technology Stack:
 - Extent Report
 - Maven
 - JSON testdata
+- Jackson Databind (for API test)
 
 **How to Use:**
 
