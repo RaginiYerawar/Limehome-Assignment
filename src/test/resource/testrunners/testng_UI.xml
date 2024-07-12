@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Limehome Test Regression Suite" verbose="4">
+	
+	<listeners>
+		<listener class-name="com.qa.listeners.ExtentReportListener" />
+		<listener class-name="com.qa.listeners.RetryListener" />
+	</listeners>
+
+	<test name="Limehome Home Page Test">
+		<classes>
+			<class name="com.qa.tests.HomePageTest" />
+		</classes>
+		
+	</test>
+	<test name="Limehome Product Page Test">
+		<classes>
+			<class name="com.qa.tests.ProductPageTest" />
+		</classes>
+		
+	</test>
+	<test name="Limehome Checkout Page Test">
+		<classes>
+			<class name="com.qa.tests.CheckoutPageTest" />
+		</classes>
+		
+	</test>
+	
+
+</suite>
